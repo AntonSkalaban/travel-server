@@ -1,0 +1,17 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "compile": "tsc",
+    "start": "yarn run compile && node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@apollo/server": "^4.10.4",
+    "@types/node": "^20.14.11",
+    "graphql": "^16.9.0",
+    "typescript": "^5.5.3"
+  }
+}
