@@ -146,7 +146,7 @@ The area is very calm and quiet, in walking distance is everything you need: sup
             'https://plus.unsplash.com/premium_photo-1683134440527-28b19fabf89d?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://plus.unsplash.com/premium_photo-1683134440527-28b19fabf89d?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
             'https://plus.unsplash.com/premium_photo-1661964402307-02267d1423f5?q=80&w=2873&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
             'https://plus.unsplash.com/premium_photo-1661962964017-b985533e1f45?q=80&w=2797&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'],
-        rice: 160000,
+        price: 160000,
         available: true,
     },
     {
@@ -378,14 +378,14 @@ const tours = [
     {
         id: 3,
         country: 'Belarus',
-        city: 'Brasília',
+        city: 'Minsk',
         currency: 'BRL',
         flag: 'https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png',
     },
     {
         id: 4,
         country: 'Alaska',
-        city: 'Brasília',
+        city: 'Anchorage',
         currency: 'BRL',
         flag: 'https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png',
     },
